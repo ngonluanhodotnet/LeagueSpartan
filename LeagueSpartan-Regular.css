@@ -1,0 +1,12 @@
+/* Webfont: LeagueSpartan-Regular */@font-face {
+    font-family: 'LeagueSpartan';
+    src: url('LeagueSpartan-Regular.eot'); /* IE9 Compat Modes */
+    src: url('LeagueSpartan-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('LeagueSpartan-Regular.woff') format('woff'), /* Modern Browsers */
+         url('LeagueSpartan-Regular.woff2') format('woff2'), /* Modern Browsers */
+         url('LeagueSpartan-Regular.ttf') format('truetype'); /* Safari, Android, iOS */
+             font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
